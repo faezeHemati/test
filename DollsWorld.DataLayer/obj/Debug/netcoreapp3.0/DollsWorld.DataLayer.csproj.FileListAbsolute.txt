@@ -1,0 +1,12 @@
+E:\DollsWorld\DollsWorld.DataLayer\bin\Debug\netcoreapp3.0\DollsWorld.DataLayer.deps.json
+E:\DollsWorld\DollsWorld.DataLayer\bin\Debug\netcoreapp3.0\DollsWorld.DataLayer.dll
+E:\DollsWorld\DollsWorld.DataLayer\bin\Debug\netcoreapp3.0\DollsWorld.DataLayer.pdb
+E:\DollsWorld\DollsWorld.DataLayer\obj\Debug\netcoreapp3.0\DollsWorld.DataLayer.csprojAssemblyReference.cache
+E:\DollsWorld\DollsWorld.DataLayer\obj\Debug\netcoreapp3.0\DollsWorld.DataLayer.AssemblyInfoInputs.cache
+E:\DollsWorld\DollsWorld.DataLayer\obj\Debug\netcoreapp3.0\DollsWorld.DataLayer.AssemblyInfo.cs
+E:\DollsWorld\DollsWorld.DataLayer\obj\Debug\netcoreapp3.0\DollsWorld.DataLayer.csproj.CoreCompileInputs.cache
+E:\DollsWorld\DollsWorld.DataLayer\obj\Debug\netcoreapp3.0\DollsWorld.DataLayer.dll
+E:\DollsWorld\DollsWorld.DataLayer\obj\Debug\netcoreapp3.0\DollsWorld.DataLayer.pdb
+E:\DollsWorld\DollsWorld.DataLayer\bin\Debug\netcoreapp3.0\DollsWorld.DataLayer.runtimeconfig.json
+E:\DollsWorld\DollsWorld.DataLayer\bin\Debug\netcoreapp3.0\DollsWorld.DataLayer.runtimeconfig.dev.json
+E:\DollsWorld\DollsWorld.DataLayer\obj\Debug\netcoreapp3.0\DollsWorld.DataLayer.genruntimeconfig.cache

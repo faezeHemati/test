@@ -1,0 +1,146 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\course\demoes\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Properties\PublishProfiles\FolderProfile.pubxml.user" />
+    <None Include="wwwroot\AdminContent\font-awesome\fonts\fontawesome-webfont.svg" />
+    <None Include="wwwroot\AdminContent\font-awesome\less\bordered-pulled.less" />
+    <None Include="wwwroot\AdminContent\font-awesome\less\core.less" />
+    <None Include="wwwroot\AdminContent\font-awesome\less\fixed-width.less" />
+    <None Include="wwwroot\AdminContent\font-awesome\less\font-awesome.less" />
+    <None Include="wwwroot\AdminContent\font-awesome\less\icons.less" />
+    <None Include="wwwroot\AdminContent\font-awesome\less\larger.less" />
+    <None Include="wwwroot\AdminContent\font-awesome\less\list.less" />
+    <None Include="wwwroot\AdminContent\font-awesome\less\mixins.less" />
+    <None Include="wwwroot\AdminContent\font-awesome\less\path.less" />
+    <None Include="wwwroot\AdminContent\font-awesome\less\rotated-flipped.less" />
+    <None Include="wwwroot\AdminContent\font-awesome\less\spinning.less" />
+    <None Include="wwwroot\AdminContent\font-awesome\less\stacked.less" />
+    <None Include="wwwroot\AdminContent\font-awesome\less\variables.less" />
+    <None Include="wwwroot\AdminContent\font-awesome\scss\font-awesome.scss" />
+    <None Include="wwwroot\AdminContent\font-awesome\scss\_bordered-pulled.scss" />
+    <None Include="wwwroot\AdminContent\font-awesome\scss\_core.scss" />
+    <None Include="wwwroot\AdminContent\font-awesome\scss\_fixed-width.scss" />
+    <None Include="wwwroot\AdminContent\font-awesome\scss\_icons.scss" />
+    <None Include="wwwroot\AdminContent\font-awesome\scss\_larger.scss" />
+    <None Include="wwwroot\AdminContent\font-awesome\scss\_list.scss" />
+    <None Include="wwwroot\AdminContent\font-awesome\scss\_mixins.scss" />
+    <None Include="wwwroot\AdminContent\font-awesome\scss\_path.scss" />
+    <None Include="wwwroot\AdminContent\font-awesome\scss\_rotated-flipped.scss" />
+    <None Include="wwwroot\AdminContent\font-awesome\scss\_spinning.scss" />
+    <None Include="wwwroot\AdminContent\font-awesome\scss\_stacked.scss" />
+    <None Include="wwwroot\AdminContent\font-awesome\scss\_variables.scss" />
+    <None Include="wwwroot\AdminContent\fonts\glyphicons-halflings-regular.svg" />
+    <None Include="wwwroot\AdminContent\js\bootstrap.js" />
+    <None Include="wwwroot\AdminContent\js\bootstrap.min.js" />
+    <None Include="wwwroot\AdminContent\js\demo\dashboard-demo.js" />
+    <None Include="wwwroot\AdminContent\js\demo\flot-demo.js" />
+    <None Include="wwwroot\AdminContent\js\demo\morris-demo.js" />
+    <None Include="wwwroot\AdminContent\js\jquery-1.10.2.js" />
+    <None Include="wwwroot\AdminContent\js\plugins\dataTables\dataTables.bootstrap.js" />
+    <None Include="wwwroot\AdminContent\js\plugins\dataTables\jquery.dataTables.js" />
+    <None Include="wwwroot\AdminContent\js\plugins\flot\excanvas.min.js" />
+    <None Include="wwwroot\AdminContent\js\plugins\flot\jquery.flot.js" />
+    <None Include="wwwroot\AdminContent\js\plugins\flot\jquery.flot.pie.js" />
+    <None Include="wwwroot\AdminContent\js\plugins\flot\jquery.flot.resize.js" />
+    <None Include="wwwroot\AdminContent\js\plugins\flot\jquery.flot.tooltip.min.js" />
+    <None Include="wwwroot\AdminContent\js\plugins\metisMenu\jquery.metisMenu.js" />
+    <None Include="wwwroot\AdminContent\js\plugins\morris\morris.js" />
+    <None Include="wwwroot\AdminContent\js\plugins\morris\raphael-2.1.0.min.js" />
+    <None Include="wwwroot\AdminContent\js\sb-admin.js" />
+    <None Include="wwwroot\courseFiles\01_Asp.NetCore2Advance_Intro.rar" />
+    <None Include="wwwroot\courseFiles\01_MicroService.rar" />
+    <None Include="wwwroot\courseFiles\01_MohrKhatam.rar" />
+    <None Include="wwwroot\courseFiles\photo_2018-10-13_08-55-14.rar" />
+    <None Include="wwwroot\courseFiles\photo_2018-10-13_09-01-27.rar" />
+    <None Include="wwwroot\courseFiles\ser.rar" />
+    <None Include="wwwroot\courseFiles\ser1.rar" />
+    <None Include="wwwroot\courseFiles\ser10.rar" />
+    <None Include="wwwroot\courseFiles\ser11.rar" />
+    <None Include="wwwroot\courseFiles\ser2.rar" />
+    <None Include="wwwroot\courseFiles\ser3.rar" />
+    <None Include="wwwroot\courseFiles\ser4.rar" />
+    <None Include="wwwroot\courseFiles\ser5.rar" />
+    <None Include="wwwroot\courseFiles\ser6.rar" />
+    <None Include="wwwroot\courseFiles\ser7.rar" />
+    <None Include="wwwroot\courseFiles\ser8.rar" />
+    <None Include="wwwroot\courseFiles\ser9.rar" />
+    <None Include="wwwroot\css\css\fonts\Material-Design-Iconic-Font.svg" />
+    <None Include="wwwroot\css\css\fonts\Material-Design-Iconic-Font.woff2" />
+    <None Include="wwwroot\css\fonts\Material-Design-Iconic-Font.svg" />
+    <None Include="wwwroot\css\fonts\Material-Design-Iconic-Font.woff2" />
+    <None Include="wwwroot\css\js\bootstrap.min.js" />
+    <None Include="wwwroot\css\js\jquery.min.js" />
+    <None Include="wwwroot\css\js\jquery.unobtrusive-ajax.min.js" />
+    <None Include="wwwroot\css\js\jquery.validate.js" />
+    <None Include="wwwroot\css\js\jquery.validate.min.js" />
+    <None Include="wwwroot\css\js\jquery.validate.unobtrusive.js" />
+    <None Include="wwwroot\css\js\jquery.validate.unobtrusive.min.js" />
+    <None Include="wwwroot\css\js\modernizr-custom.js" />
+    <None Include="wwwroot\css\js\script.js" />
+    <None Include="wwwroot\css\noUiSlider\nouislider.min.js" />
+    <None Include="wwwroot\js\bootstrap.min.js" />
+    <None Include="wwwroot\js\Config.js" />
+    <None Include="wwwroot\js\jquery.min.js" />
+    <None Include="wwwroot\js\jquery.unobtrusive-ajax.js" />
+    <None Include="wwwroot\js\jquery.unobtrusive-ajax.min.js" />
+    <None Include="wwwroot\js\jquery.validate.js" />
+    <None Include="wwwroot\js\jquery.validate.min.js" />
+    <None Include="wwwroot\js\jquery.validate.unobtrusive.js" />
+    <None Include="wwwroot\js\jquery.validate.unobtrusive.min.js" />
+    <None Include="wwwroot\js\kendo.all.min.js" />
+    <None Include="wwwroot\js\modernizr-custom.js" />
+    <None Include="wwwroot\js\script.js" />
+  </ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="3.0.0" />
+		<PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.0.0" />
+		<PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="3.0.0" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.0.0" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.0.0" />
+
+		<PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.10" />
+		<PackageReference Include="SharpCompress" Version="0.25.1" />
+		<PackageReference Include="ZarinPalSandbox" Version="2.0.4" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\DollsWorld.Core\DollsWorld.Core.csproj" />
+		<ProjectReference Include="..\DollsWorld.DataLayer\DollsWorld.DataLayer.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Content Update="Areas\UserPanel\Views\_ViewImports.cshtml">
+			<Pack>$(IncludeRazorContentInPack)</Pack>
+		</Content>
+		<Content Update="Areas\UserPanel\Views\_ViewStart.cshtml">
+			<Pack>$(IncludeRazorContentInPack)</Pack>
+		</Content>
+		<Content Update="Pages\Admin\Roles\Index.cshtml">
+			<Pack>$(IncludeRazorContentInPack)</Pack>
+		</Content>
+		<Content Update="Pages\_ViewImports.cshtml">
+			<Pack>$(IncludeRazorContentInPack)</Pack>
+		</Content>
+		<Content Update="Pages\_ViewStart.cshtml">
+			<Pack>$(IncludeRazorContentInPack)</Pack>
+		</Content>
+	</ItemGroup>
+
+	<ItemGroup>
+		<Folder Include="wwwroot\course\demoes\" />
+		<Folder Include="wwwroot\MyImages\" />
+		<Folder Include="wwwroot\courseFiles\" />
+		<Folder Include="wwwroot\courseOnline\" />
+		<Folder Include="wwwroot\CourseFilesOnline\" />
+	</ItemGroup>
+
+</Project>

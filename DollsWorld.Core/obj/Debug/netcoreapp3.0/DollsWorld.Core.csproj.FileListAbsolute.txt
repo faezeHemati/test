@@ -1,0 +1,12 @@
+E:\DollsWorld\DollsWorld.Core\bin\Debug\netcoreapp3.0\DollsWorld.Core.deps.json
+E:\DollsWorld\DollsWorld.Core\bin\Debug\netcoreapp3.0\DollsWorld.Core.dll
+E:\DollsWorld\DollsWorld.Core\bin\Debug\netcoreapp3.0\DollsWorld.Core.pdb
+E:\DollsWorld\DollsWorld.Core\bin\Debug\netcoreapp3.0\DollsWorld.DataLayer.dll
+E:\DollsWorld\DollsWorld.Core\bin\Debug\netcoreapp3.0\DollsWorld.DataLayer.pdb
+E:\DollsWorld\DollsWorld.Core\obj\Debug\netcoreapp3.0\DollsWorld.Core.csprojAssemblyReference.cache
+E:\DollsWorld\DollsWorld.Core\obj\Debug\netcoreapp3.0\DollsWorld.Core.AssemblyInfoInputs.cache
+E:\DollsWorld\DollsWorld.Core\obj\Debug\netcoreapp3.0\DollsWorld.Core.AssemblyInfo.cs
+E:\DollsWorld\DollsWorld.Core\obj\Debug\netcoreapp3.0\DollsWorld.Core.csproj.CoreCompileInputs.cache
+E:\DollsWorld\DollsWorld.Core\obj\Debug\netcoreapp3.0\DollsWorld.Core.csproj.CopyComplete
+E:\DollsWorld\DollsWorld.Core\obj\Debug\netcoreapp3.0\DollsWorld.Core.dll
+E:\DollsWorld\DollsWorld.Core\obj\Debug\netcoreapp3.0\DollsWorld.Core.pdb

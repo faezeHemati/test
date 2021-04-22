@@ -11442,19 +11442,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\LENOVO\\.nuget\\packages\\": {}
+    "C:\\Users\\ET\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DollsWorld\\DollsWorld.Web\\DollsWorld.Web.csproj",
+      "projectUniqueName": "C:\\Users\\ET\\Desktop\\Test\\DollsWorld.Web\\DollsWorld.Web.csproj",
       "projectName": "DollsWorld.Web",
-      "projectPath": "E:\\DollsWorld\\DollsWorld.Web\\DollsWorld.Web.csproj",
-      "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "E:\\DollsWorld\\DollsWorld.Web\\obj\\",
+      "projectPath": "C:\\Users\\ET\\Desktop\\Test\\DollsWorld.Web\\DollsWorld.Web.csproj",
+      "packagesPath": "C:\\Users\\ET\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ET\\Desktop\\Test\\DollsWorld.Web\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ET\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -11468,11 +11472,11 @@
         "netcoreapp3.0": {
           "targetAlias": "netcoreapp3.0",
           "projectReferences": {
-            "E:\\DollsWorld\\DollsWorld.Core\\DollsWorld.Core.csproj": {
-              "projectPath": "E:\\DollsWorld\\DollsWorld.Core\\DollsWorld.Core.csproj"
+            "C:\\Users\\ET\\Desktop\\Test\\DollsWorld.Core\\DollsWorld.Core.csproj": {
+              "projectPath": "C:\\Users\\ET\\Desktop\\Test\\DollsWorld.Core\\DollsWorld.Core.csproj"
             },
-            "E:\\DollsWorld\\DollsWorld.DataLayer\\DollsWorld.DataLayer.csproj": {
-              "projectPath": "E:\\DollsWorld\\DollsWorld.DataLayer\\DollsWorld.DataLayer.csproj"
+            "C:\\Users\\ET\\Desktop\\Test\\DollsWorld.DataLayer\\DollsWorld.DataLayer.csproj": {
+              "projectPath": "C:\\Users\\ET\\Desktop\\Test\\DollsWorld.DataLayer\\DollsWorld.DataLayer.csproj"
             }
           }
         }
@@ -11556,7 +11560,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
